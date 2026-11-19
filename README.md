@@ -1,6 +1,6 @@
 # Homie Getaway
 
-An auto-runner where you pick a homie (Boomer, Mike, Matt, David, Louie, Anthony or Loni) and run from the cops.
+An auto-runner where you pick a homie (Boomer, Mike, Matt, David, Louie, Anthony or Loni) and run from three CHP officers.
 
 Open `index.html` in a browser (works on phone and desktop).
 
